@@ -16,7 +16,7 @@ class Fibonacci{
     public static void main(String[] args) {
 //        int number = 5;
 //        new Fibonacci(number);
-        System.out.println("TEST");
+//        System.out.println("TEST");
 
     }
 }
