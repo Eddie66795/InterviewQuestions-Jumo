@@ -1,5 +1,12 @@
 class Fibonacci{
+
+    public Fibonacci() {
+        System.out.println("Test this");
+    }
+
+
     public static void main(String[] args) {
-        System.out.println("Testing the string");
+        new Fibonacci();
+
     }
 }
