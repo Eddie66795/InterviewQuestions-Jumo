@@ -14,12 +14,12 @@ public class TwoSum {
         }
     }
 
-    public int[] twoSum(int[] nums, int target) {
+    public int[] twoSum(int[] inputNumbers, int target) {
         ArrayList<Integer> results = new ArrayList<Integer>();
-        for(int i = 0; i < nums.length; i++) {
-            for(int j = i + 1; j < nums.length; j++) {
-                if(j < nums.length) {
-                    if((nums[i] + nums[j] == target)) {
+        for(int i = 0; i < inputNumbers.length; i++) {
+            for(int j = i + 1; j < inputNumbers.length; j++) {
+                if(j < inputNumbers.length) {
+                    if((inputNumbers[i] + inputNumbers[j] == target)) {
                         results.add(i);
                         results.add(j);
                     }
