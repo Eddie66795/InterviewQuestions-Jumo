@@ -3,7 +3,7 @@ package ReverseInt;
 public class ReverseInteger {
 
     public ReverseInteger() {
-        int testInput = -1234;
+        int testInput = -123;
         int result = reverse(testInput, false);
 
         System.out.println("Result: " + result);
@@ -16,14 +16,9 @@ public class ReverseInteger {
         }
         int result = reverse(input, 0);
         if(isNegative) {
-            System.out.println("isNegative: ");
-            result = result;
-            System.out.println("isNegative: " + result);
-            return result;
-        } else {
-            System.out.println("isNotNegative: ");
-            return result;
+            result = result * -1;
         }
+        return result;
     }
 
     public int reverse(int input, int result) {
