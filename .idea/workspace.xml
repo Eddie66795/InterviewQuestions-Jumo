@@ -7,7 +7,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ad5112b-6192-4de7-a11f-1c8d9584ba0c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Java/src/TwoSum/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/TwoSum/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/InterviewQuestions-Jumo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <ignored path="InterviewQuestions-Jumo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,8 +37,8 @@
       <file leaf-file-name="TwoSum.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Java/src/TwoSum/TwoSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="45" lean-forward="true" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+            <state relative-caret-position="450">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
               <folding>
                 <element signature="e#399#408#0" expanded="true" />
                 <element signature="e#911#912#0" expanded="true" />
@@ -99,13 +107,6 @@
               <item name="InterviewQuestions-Jumo" type="462c0819:PsiDirectoryNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="InterviewQuestions-Jumo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InterviewQuestions-Jumo" type="462c0819:PsiDirectoryNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="TwoSum" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -378,12 +379,12 @@
       <option name="presentableId" value="Default" />
       <updated>1523600266063</updated>
       <workItem from="1527156954903" duration="95000" />
-      <workItem from="1527157793198" duration="419000" />
+      <workItem from="1527157793198" duration="465000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="514000" />
+    <option name="totallyTimeSpent" value="560000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -466,8 +467,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Java/src/TwoSum/TwoSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="45" lean-forward="true" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+        <state relative-caret-position="450">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
           <folding>
             <element signature="e#399#408#0" expanded="true" />
             <element signature="e#911#912#0" expanded="true" />
