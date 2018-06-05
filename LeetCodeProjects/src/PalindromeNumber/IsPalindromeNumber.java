@@ -44,15 +44,12 @@ public class IsPalindromeNumber {
                 for(int i = 0; i < inputString.length(); i++) {
                     int frontCount = i;
                     int backCount = inputString.length() - i;
-
-                    if()
                 }
             } else {
 
             }
-
-
         }
+        return false;
     }
 
 
