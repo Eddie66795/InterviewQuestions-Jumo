@@ -4,11 +4,11 @@ public class IsPalindromeNumber {
 
     public TestInput[] getTestInput() {
         TestInput testInput[] =  {
-            new TestInput(1, true),
-            new TestInput(1111, true),
-            new TestInput(99199, true),
-            new TestInput(991799, false),
-            new TestInput(991799, false),
+//            new TestInput(1, true),
+            new TestInput(2442, true),
+//            new TestInput(99199, true),
+//            new TestInput(991799, false),
+//            new TestInput(991799, false),
         };
         return testInput;
     }
@@ -33,23 +33,51 @@ public class IsPalindromeNumber {
     }
 
 
-    public boolean isPalindrome(int x) {
-        String inputString = Integer.toString(x);
-        if(inputString.length() == 1) {
-            return true;
-        } else {
+    public boolean isPalindrome(int input) {
 
-            //String has an equal number of chars
-            if(inputString.length() % 2 == 0) {
-                for(int i = 0; i < inputString.length(); i++) {
-                    int frontCount = i;
-                    int backCount = inputString.length() - i;
-                }
-            } else {
 
+        char array[] = Integer.toString(input).toCharArray();
+
+        for(int i = 0; i < array.length ; i++) {
+            int frontCount = i;
+            int backCount = array.length - 1 - i;
+            if(array[frontCount] != array[backCount]) {
+                return false;
+            } else if(frontCount == backCount) {
+                return true;
             }
         }
+
+
+
         return false;
+
+
+
+//        String inputString = Integer.toString(x);
+//        char array[] = Integer.toString(x).toCharArray();
+//        boolean isPalindrome = true;
+//        if(inputString.length() == 1) {
+//            return true;
+//        } else {
+//
+//            //String has an equal number of chars
+//            if(inputString.length() % 2 == 0) {
+//                for(int i = 0; i < inputString.length() - 1; i++) {
+//                    int frontCount = i;
+//                    int backCount = inputString.length() - i -1;
+//                    if(array[frontCount] != array[backCount]) {
+//                        isPalindrome = false;
+//                        return isPalindrome;
+//                    } else if(frontCount == backCount) {
+//                        return isPalindrome;
+//                    }
+//                }
+//            } else {
+//
+//            }
+//        }
+//        return false;
     }
 
 
