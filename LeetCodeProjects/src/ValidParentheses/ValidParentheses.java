@@ -1,126 +1,64 @@
 package ValidParentheses;
 
-import java.util.*;
+import java.util.Stack;
 
 public class ValidParentheses {
 
-    private final char PARENTHESIS_OPEN = '(';
-    private final char PARENTHESIS_CLOSE= ')';
-    private final char BRACKET_OPEN = '{';
-    private final char BRACKET_CLOSE = '}';
-    private final char BRACE_OPEN = '[';
-    private final char BRACE_CLOSE = ']';
+    public ValidParenthesesInput[] getInput() {
 
-    public ValidParentheses() {
-        TestInput testInput[] = {
-                new TestInput("(())", true),
-                new TestInput("([]){}", true),
+        ValidParenthesesInput test[] = {
+                new ValidParenthesesInput("(())", true),
+                new ValidParenthesesInput("()()", true),
         };
 
-
-        for(int i = 0; i < testInput.length; i++) {
-            String temp = testInput[i].input;
-            boolean result = isValid(testInput[i].input);
-            System.out.println("Actual: " + result);
-            System.out.println("Expected: " + testInput[i].isValid);
-        }
+        return test;
     }
 
+    public void validate() {
+        ValidParenthesesInput getInput[] = getInput();
+        for(int i = 0; i < getInput.length; i++) {
+            String input = getInput[i].input;
+            if(isValid(getInput[i].input) != getInput[i].isValid) {
+                System.out.println("THERE WAS A PROBLEM");
+                System.out.println(input);
+            }
+        }
+        System.out.println("TEST PASSED");
+    }
+
+    public final char open_parenthesis = '(';
+    public final char close_parenthesis =')';
+    public int parenthesis_count;
 
 
     public boolean isValid(String input) {
-        char inputChars[] = input.toCharArray();
-        int count = 0;
+        parenthesis_count = 0;
+        char inputElements[] = input.toCharArray();
 
-        Stack st = new Stack();
-
-        for(int i = 0; i < inputChars.length - 1; i++) {
-            if(isValidChar(inputChars[i])) {
-                if(isOpen(inputChars[i])) {
-                    count ++;
-                    st.push(inputChars[i]);
-                } else if (isClosed(inputChars[i])) {
-                    count --;
-                }
-            } else {
-                return false;
+        for(int i = 0; i < inputElements.length; i++) {
+            char temp = inputElements[i];
+            if(temp == open_parenthesis) {
+                parenthesis_count += 1;
+            } else if(temp == close_parenthesis) {
+                parenthesis_count -= 1;
             }
         }
-        return (count == 0);
+        return parenthesis_count == 0;
     }
-
-    public char opposites(char inputChar) {
-        switch (inputChar) {
-            case PARENTHESIS_OPEN:
-                return PARENTHESIS_CLOSE;
-            case BRACKET_OPEN:
-                return BRACKET_CLOSE;
-            case BRACE_OPEN:
-                return BRACE_CLOSE;
-        }
-        return inputChar;
-    }
-
-
-    public boolean isOpen(char inputChar) {
-        switch (inputChar) {
-            case PARENTHESIS_OPEN:
-                return true;
-            case BRACKET_OPEN:
-                return true;
-            case BRACE_OPEN:
-                return true;
-            default: return false;
-        }
-    }
-
-    public boolean isClosed(char inputChar) {
-        switch (inputChar) {
-            case PARENTHESIS_CLOSE:
-                return true;
-            case BRACKET_CLOSE:
-                return true;
-            case BRACE_CLOSE:
-                return true;
-            default: return false;
-        }
-    }
-
-    public boolean isValidChar(char inputChar) {
-        switch (inputChar) {
-            case PARENTHESIS_OPEN:
-                return true;
-            case PARENTHESIS_CLOSE:
-                return true;
-            case BRACKET_OPEN:
-                return true;
-            case BRACKET_CLOSE:
-                return true;
-            case BRACE_OPEN:
-                return true;
-            case BRACE_CLOSE:
-                return true;
-            default:
-                return false;
-        }
-    }
-
-
 
 
     public static void main(String[] args) {
-        new ValidParentheses();
+        new ValidParentheses().validate();
     }
 
-    class TestInput {
+    class ValidParenthesesInput {
 
         public String input;
         public boolean isValid;
 
-        public TestInput(String input, boolean isValid) {
+        public ValidParenthesesInput(String input, boolean isValid) {
             this.input = input;
             this.isValid = isValid;
         }
     }
-
 }
