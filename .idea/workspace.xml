@@ -7,15 +7,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ad5112b-6192-4de7-a11f-1c8d9584ba0c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/InterviewQuestions-Jumo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCodeProjects/LeetCodeProjects.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCodeProjects/src/Atoi/StringToInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCodeProjects/src/JewelsAndStones/JewelsAndStones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCodeProjects/src/PalindromeNumber/IsPalindromeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCodeProjects/src/ReverseInt/ReverseInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCodeProjects/src/ValidParentheses/InputHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCodeProjects/src/ValidParentheses/ValidParentheses.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCodeProjects/src/toLowerCase/toLowerCase.java" beforeDir="false" />
     </list>
     <ignored path="InterviewQuestions-Jumo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,29 +34,39 @@
     <favorites_list name="InterviewQuestions-Jumo" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="TwoSum.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Java/src/TwoSum/TwoSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-              <folding>
-                <element signature="e#399#408#0" expanded="true" />
-                <element signature="e#911#912#0" expanded="true" />
-                <element signature="e#939#940#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>TES</find>
+      <find>removeNonNumericalChars</find>
+      <find>userMap</find>
+      <find>readUserNames</find>
+      <find>follower</find>
+      <find>add</find>
+      <find>getUserTweets</find>
+      <find>System.out</find>
+      <find>listUsersTweets</find>
+      <find>readUserTweets</find>
+      <find>addUserTweet</find>
+      <find>textAreaGame</find>
+      <find>users_tweets</find>
+      <find>getUserTweetIndex</find>
+      <find>hasNext</find>
+      <find>public void learn</find>
+      <find>print</find>
+      <find>userName</find>
+      <find>main</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,9 +74,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/fibonacci/fibonacci.java" />
-        <option value="$PROJECT_DIR$/java/src/fibonacci.java" />
-        <option value="$PROJECT_DIR$/Java/src/TwoSum/TwoSum.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/Atoi/ValidateInput.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/Atoi/Atoi.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/Atoi/TestInput.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/Atoi/StringToInteger.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/toLowerCase/toLowerCase.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/TestingWithCarla/Main.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/twitter.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/Wrapper.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/FileReader.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/JewelsAndStones/JewelsAndStones.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/TwitterTests.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/database/MysqlCon.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/UI/GUI_Main_Frame.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/UI/GUI_Main_Panels.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/UserInterface/Server.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/MyServer.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/Client.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/SocketServer.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/bin/assemble.sh" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/bin/wait-for-db.sh" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/start.sh" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/Dockerfile" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter_2/Twitter.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/stack.yml" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/MyMainClass.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/GFG.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/TwitterNew.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/application/validator/ValidatorComponent.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/FileReaders.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/application/TwitterInterface.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/Twitter.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/application/TwitterComponent.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/domain/TwitterInterface.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/ExtendsAndImplementsDemo.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/TestClass.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/domain/TwitterComponent.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/Details.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/errors/UserError.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/test.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/domain/User.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/domain/Tweets.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/application/Tweets.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/application/User.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/domain/Twitter.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/infrastructure/FileReaders.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/Main.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/twitter/MyThisTest.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/Examples/MyThisTest.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/errors/MatchingError.java" />
+        <option value="$PROJECT_DIR$/LeetCodeProjects/src/ValidParentheses/ValidParentheses.java" />
       </list>
     </option>
   </component>
@@ -79,40 +138,37 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="873" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="PackagesPane" proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="InterviewQuestions-Jumo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InterviewQuestions-Jumo" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCodeProjects" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="InterviewQuestions-Jumo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InterviewQuestions-Jumo" type="462c0819:PsiDirectoryNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="InterviewQuestions-Jumo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InterviewQuestions-Jumo" type="462c0819:PsiDirectoryNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCodeProjects" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -121,16 +177,18 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
-    <property name="restartRequiresConfirmation" value="true" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.compiler.ScalaCompileServerForm" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/LeetCodeProjects/src/com/baeldung/dozer" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/java/src" />
     </key>
   </component>
@@ -146,9 +204,64 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MyThisTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="Details" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="twitter.Details" />
+      <module name="LeetCodeProjects" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ExtendsAndImplementsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="twitter.ExtendsAndImplementsDemo" />
+      <module name="LeetCodeProjects" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="twitter.Main" />
+      <module name="LeetCodeProjects" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MyThisTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.MyThisTest" />
+      <module name="LeetCodeProjects" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="twitter.TestClass" />
+      <module name="LeetCodeProjects" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="Unnamed" type="Application" factoryName="Application">
       <module name="InterviewQuestions-Jumo" />
@@ -244,57 +357,6 @@
       <environmetVariables />
       <method />
     </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
-      <MavenSettings>
-        <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
-        <option name="myRunnerParameters">
-          <MavenRunnerParameters>
-            <option name="profiles">
-              <set />
-            </option>
-            <option name="goals">
-              <list />
-            </option>
-            <option name="profilesMap">
-              <map />
-            </option>
-            <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="" />
-          </MavenRunnerParameters>
-        </option>
-      </MavenSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
-    </configuration>
     <configuration default="true" type="SbtRunConfiguration" factoryName="SBT Task">
       <setting name="tasks" value="" />
       <setting name="vmparams" value="-Xms512M -Xmx1024M -Xss1M -XX:+CMSClassUnloadingEnabled -XX:MaxPermSize=256M" />
@@ -340,12 +402,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <method />
-    </configuration>
     <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <extension name="scalaCoverage" />
@@ -362,6 +418,23 @@
       <envs />
       <method />
     </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ExtendsAndImplementsDemo" />
+      <item itemvalue="Application.TestClass" />
+      <item itemvalue="Application.Details" />
+      <item itemvalue="Application.MyThisTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyThisTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Details" />
+        <item itemvalue="Application.TestClass" />
+        <item itemvalue="Application.ExtendsAndImplementsDemo" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
     <option name="externalProjectsViewState">
@@ -379,12 +452,29 @@
       <option name="presentableId" value="Default" />
       <updated>1523600266063</updated>
       <workItem from="1527156954903" duration="95000" />
-      <workItem from="1527157793198" duration="465000" />
+      <workItem from="1527157793198" duration="1816000" />
+      <workItem from="1527162125634" duration="51000" />
+      <workItem from="1527162197274" duration="21477000" />
+      <workItem from="1528281272309" duration="343000" />
+      <workItem from="1528343681070" duration="1024000" />
+      <workItem from="1528700880306" duration="1111000" />
+      <workItem from="1528710648247" duration="767000" />
+      <workItem from="1528782527261" duration="521000" />
+      <workItem from="1528784394290" duration="687000" />
+      <workItem from="1528789652251" duration="3000" />
+      <workItem from="1528806911275" duration="323000" />
+      <workItem from="1529040045898" duration="343000" />
+      <workItem from="1529478570989" duration="1159000" />
+      <workItem from="1529558291868" duration="229000" />
+      <workItem from="1530533808049" duration="257000" />
+      <workItem from="1542637947795" duration="20000" />
+      <workItem from="1543209214674" duration="182000" />
+      <workItem from="1543231851031" duration="1714000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="560000" />
+    <option name="totallyTimeSpent" value="32122000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -396,41 +486,74 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32848486" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32793018" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49928468" weight="0.21945137" />
       <window_info id="Palette&#9;" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007153" side_tool="true" weight="0.32969698" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.3690773" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32917705" />
       <window_info anchor="right" id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32969698" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49909583" weight="0.19957082" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info id="Structure" order="1" sideWeight="0.50090414" side_tool="true" weight="0.2639485" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990025" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="GhcMod" order="7" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32917705" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Cabal" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" order="7" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="right" id="Designer" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info id="Image Layers" order="5" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.32969698" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Cabal" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007153" side_tool="true" weight="0.32969698" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49928468" weight="0.32969698" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="GhcMod" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49909583" visible="true" weight="0.2639485" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32848486" />
+      <window_info id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Structure" order="1" sideWeight="0.50090414" side_tool="true" weight="0.2639485" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32969698" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -446,33 +569,221 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/fibonacci.java">
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/TestingWithCarla/Main.java" />
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/Atoi/StringToInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        <state relative-caret-position="405">
+          <caret line="27" column="54" lean-forward="true" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/fibonacci.java">
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/toLowerCase/toLowerCase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Java/src/TwoSum/TwoSum.java">
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/PriorityQueue.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="160">
+          <caret line="1474" column="45" lean-forward="true" selection-start-line="1474" selection-start-column="45" selection-end-line="1474" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/database/MysqlCon.java" />
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/UI.java" />
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/UI/GUI_Main_Frame.java" />
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/UI/GUI_Main_Panels.java" />
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/UserInterface/Server.java" />
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/MyServer.java" />
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/Client.java" />
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/SocketServer.class" />
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/SocketServer.java" />
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/bin/assemble.sh" />
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/bin/wait-for-db.sh" />
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/start.sh" />
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/Dockerfile" />
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter_2/Twitter.java" />
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/stack.yml" />
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/docker-compose.yml" />
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/Utils.java" />
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/DemoClass.java" />
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/MyMainClass.java" />
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/GFG.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4638">
+          <caret line="336" column="19" selection-start-line="336" selection-start-column="19" selection-end-line="336" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/Wrapper.java" />
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/JewelsAndStones/JewelsAndStones.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/TwitterTests.java" />
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/TwitterNew.java" />
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/errors/Errors.java" />
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/application/validator/Validator.java" />
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/application/validator/ValidatorComponent.java" />
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/domain/TwitterInterface.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7965">
+          <caret line="572" column="51" selection-start-line="572" selection-start-column="51" selection-end-line="572" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12345">
+          <caret line="887" column="31" selection-start-line="887" selection-start-column="31" selection-end-line="887" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/errors/UserError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/domain/TwitterComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/application/Tweets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/domain/Twitter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="11" lean-forward="true" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/infrastructure/FileReaders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="2" lean-forward="true" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/application/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
-            <element signature="e#399#408#0" expanded="true" />
-            <element signature="e#911#912#0" expanded="true" />
-            <element signature="e#939#940#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/Details.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="103" column="30" lean-forward="true" selection-start-line="103" selection-start-column="30" selection-end-line="103" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/ExtendsAndImplementsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="95" column="51" lean-forward="true" selection-start-line="95" selection-start-column="51" selection-end-line="95" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/twitter/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#335#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/utils/errors/MatchingError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="24" />
+          <folding>
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/Examples/MyThisTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="e#88#89#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/ValidParentheses/InputHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCodeProjects/src/ValidParentheses/ValidParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -506,6 +817,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>scala-sdk-2.11.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -529,7 +841,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>InterviewQuestions-Jumo</last-edited>
+          <last-edited>LeetCodeProjects</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
